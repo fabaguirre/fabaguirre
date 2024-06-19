@@ -1,4 +1,4 @@
-<img width="1834" alt="Fab Aguirre" src="https://github.com/fabaguirre/fabaguirre/assets/59670321/4125ba0a-9979-49fe-8451-ae9811f2fad4">
+<img width="1834" alt="Fab Aguirre" src="https://github.com/fabaguirre/fabaguirre/assets/59670321/b9f27678-4154-45d3-8aae-fd8ff64a23a8">
 
 
 ## :octocat: About Me:
@@ -7,6 +7,9 @@ Ambitious and hardworking, able to quickly learn new skills and methods while ef
 :white_small_square: [Check My Portfolio](https://fabos.dev/) :white_small_square:
 
 - 👨🏻‍💻 Bachelor of Science in Computer Systems - Full Stack from Peru 🇵🇪
+- :robot: Currently deepening my knowledge in backend development and advanced frontend frameworks
+- :memo: Continuously enhancing my skills in backend integration, database management, and server-side logic
+- :handshake: Freelance Fullstack Developer - creating and maintaining dynamic web applications with a strong focus on backend excellence and improving user experience (UX).
 - :mailbox_with_mail: How to reach me: faguirrecruz@hotmail.com
 
 ## 🔘 Languages and Tools:
