@@ -1,10 +1,12 @@
-<img width="1834" alt="Fab Aguirre" src="https://github.com/fabaguirre/fabaguirre/assets/59670321/b9f27678-4154-45d3-8aae-fd8ff64a23a8">
+<a href="https://fabos.dev/en" target="_blank">
+  <img width="1834" alt="Fab Aguirre" src="https://github.com/fabaguirre/fabaguirre/assets/59670321/b9f27678-4154-45d3-8aae-fd8ff64a23a8">
+</a>
 
 
 ## :octocat: About Me:
 Ambitious and hardworking, able to quickly learn new skills and methods while efficiently applying previously acquired knowledge.
 
-:white_small_square: [Check My Portfolio](https://fabos.dev/) :white_small_square:
+:white_small_square: [Check My Portfolio](https://fabos.dev/en) :white_small_square:
 
 - 👨🏻‍💻 Bachelor of Science in Computer Systems - Full Stack from Peru 🇵🇪
 - :robot: Currently deepening my knowledge in backend development and advanced frontend frameworks
